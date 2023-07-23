@@ -44,4 +44,5 @@ Place the credentials.json file (which contains your Google Calendar API credent
 
 5. Run the project
 Once you have all the prerequisites ready, you can run the project locally by executing the app.py file using the command:
+
 streamlit run app.py
