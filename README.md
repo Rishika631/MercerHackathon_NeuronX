@@ -24,7 +24,7 @@ To run the project locally, follow these steps:
 Open your terminal or command prompt and navigate to the directory where you want to clone the project. 
 Then, run the following command to clone the repository:
 
-'''git clone https://github.com/Rishika631/MercerHackathon_NeuronX.git'''
+```git clone https://github.com/Rishika631/MercerHackathon_NeuronX.git```
 
 '''cd MercerHackathon_NeuronX'''
 
