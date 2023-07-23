@@ -46,3 +46,7 @@ Place the credentials.json file (which contains your Google Calendar API credent
 Once you have all the prerequisites ready, you can run the project locally by executing the app.py file using the command:
 
 streamlit run app.py
+
+## Demo Link
+https://teamneuronx.streamlit.app/
+
