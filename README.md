@@ -19,7 +19,7 @@ To run the project locally, follow these steps:
 - Google API Credentials: This project uses Google Calendar API for integration. You will need to create a project on the Google Cloud Platform (https://console.cloud.google.com/) and enable the Google Calendar API. Then, create credentials (OAuth 2.0 Client ID) to access the API.
 
 ## Installation
-1.Clone the repository:
+1. Clone the repository:
 
 Open your terminal or command prompt and navigate to the directory where you want to clone the project. 
 Then, run the following command to clone the repository:
@@ -28,19 +28,20 @@ git clone https://github.com/Rishika631/MercerHackathon_NeuronX.git
 
 cd MercerHackathon_NeuronX
 
-2.Install the required dependencies:
+2. Install the required dependencies:
  
 Install the required Python packages by running the following command in your terminal or command prompt:
+
 pip install -r requirements.txt
 
-3.Set up the secret key:
+3. Set up the secret key:
 In the project directory, find the app.py file and open it with a code editor. Replace the placeholder API keys with your actual API keys:
 openai.api_key = 'YOUR_OPENAI_API_KEY'
 
-4.Set up the Google Calendar credentials:
+4. Set up the Google Calendar credentials:
 
 Place the credentials.json file (which contains your Google Calendar API credentials) in the project root directory and also add the access token and refresh token in token.json
 
-5.Run the project
-Once you have all the prerequisites ready, you can run the project project locally by executing the app.py file using the command:
+5. Run the project
+Once you have all the prerequisites ready, you can run the project locally by executing the app.py file using the command:
 streamlit run app.py
