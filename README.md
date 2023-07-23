@@ -41,7 +41,9 @@ pip install -r requirements.txt
 
 3. Set up the secret key:
 In the project directory, find the app.py file and open it with a code editor. Replace the placeholder API keys with your actual API keys:
+```ruby
 openai.api_key = 'YOUR_OPENAI_API_KEY'
+```
 
 4. Set up the Google Calendar credentials:
 
