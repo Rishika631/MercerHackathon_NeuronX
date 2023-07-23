@@ -1,5 +1,12 @@
 # MercerHackathon_NeuronX
-Our AI-driven web app simplifies virtual meeting content analysis. Generate accurate transcripts, summarize meetings, analyze sentiments, gain action insights, and interact with a chatbot. Integrated with Google Calendar for efficient scheduling and task management. Optimize time and boost productivity!
+This project is an AI-driven web app that simplifies virtual meeting content consumption and analysis.
+By leveraging NLP and AI technologies, users can generate accurate transcripts from virtual meetings. The
+platform offers features like meeting summarization, sentiment analysis, action insights, areas of
+improvement for each participant in the meeting, fostering personal growth opportunities, and interactive
+chatbot interactions. Integrated with Google Calendar, it enables efficient scheduling and task
+management. Our project empowers individuals and professionals to optimize time, make informed
+decisions, and enhance productivity through efficient virtual meeting content utilization, making it a
+valuable tool in today's fast-paced digital landscape.
 ## Instructions to run this project
 
 1.Clone the repository:
