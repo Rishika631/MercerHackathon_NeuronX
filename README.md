@@ -25,9 +25,12 @@ Open your terminal or command prompt and navigate to the directory where you wan
 Then, run the following command to clone the repository:
 
   ```ruby
-git clone https://github.com/Rishika631/MercerHackathon_NeuronX.git```
+git clone https://github.com/Rishika631/MercerHackathon_NeuronX.git
+```
 
-'''cd MercerHackathon_NeuronX'''
+```ruby
+cd MercerHackathon_NeuronX
+```
 
 2. Install the required dependencies:
  
