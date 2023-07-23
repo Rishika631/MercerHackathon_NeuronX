@@ -35,8 +35,9 @@ cd MercerHackathon_NeuronX
 2. Install the required dependencies:
  
 Install the required Python packages by running the following command in your terminal or command prompt:
-
+```ruby
 pip install -r requirements.txt
+```
 
 3. Set up the secret key:
 In the project directory, find the app.py file and open it with a code editor. Replace the placeholder API keys with your actual API keys:
@@ -48,8 +49,9 @@ Place the credentials.json file (which contains your Google Calendar API credent
 
 5. Run the project
 Once you have all the prerequisites ready, you can run the project locally by executing the app.py file using the command:
-
+```ruby
 streamlit run app.py
+```
 
 ## Demo Link
 https://teamneuronx.streamlit.app/
