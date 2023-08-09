@@ -58,3 +58,11 @@ streamlit run app.py
 ## Demo Link
 https://teamneuronx.streamlit.app/
 
+## Video Link
+
+https://drive.google.com/file/d/1jM5By5L4STQvpp76RGcechaF_DEzUSD4/view?usp=sharing
+
+## Presentation Link
+
+https://www.canva.com/design/DAFo98NyYQY/S2p1kSKbiGupU5oWw24sbQ/view#14
+
