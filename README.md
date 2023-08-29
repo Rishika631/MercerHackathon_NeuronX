@@ -11,7 +11,7 @@ valuable tool in today's fast-paced digital landscape.
 ## Instructions to run this project
 
 ## Getting Started 
-To run the project locally, follow these steps:
+To run the project locally, follow these step:
 
 ## Prerequisites
 - Python: Ensure that you have Python installed on your computer. You can download the latest version of Python from the official Python website (https://www.python.org/).
